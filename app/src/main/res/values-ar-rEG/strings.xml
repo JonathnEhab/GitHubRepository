@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_repositories">ابحث عن المستودعات...</string>
+    <string name="existing_user_sign_in">مستخدم موجود؟ تسجيل الدخول</string>
+    <string name="email_address">عنوان البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="don_t_have_an_account">ليس لديك حساب؟</string>
+    <string name="register_now">سجل الآن</string>
+    <string name="use_other_methods">استخدم طرقًا أخرى</string>
+    <string name="register_noww">سجل الآن!</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="register">تسجيل</string>
+    <string name="repository_name">اسم المستودع</string>
+    <string name="owner_name">اسم المالك</string>
+</resources>

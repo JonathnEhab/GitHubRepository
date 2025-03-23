@@ -1,0 +1,26 @@
+<resources>
+    <!-- Neutral Colors -->
+    <color name="colorBackgroundLight">#FFFFFF</color> <!-- White (Light Mode) -->
+    <color name="colorBackgroundDark">#121212</color> <!-- Dark Black (Dark Mode) -->
+
+    <!-- Text Colors -->
+    <color name="colorTextPrimary">#E0E0E0</color> <!-- Light Gray for text (Light Mode) -->
+    <color name="colorTextPrimaryDark">#B0B0B0</color> <!-- Muted Gray for text (Dark Mode) -->
+    <color name="colorTextSecondary">#B0B0B0
+    </color> <!-- Muted Gray for secondary text (Light Mode) -->
+    <color name="colorTextSecondaryDark">#808080
+    </color> <!-- Darker Gray for secondary text (Dark Mode) -->
+
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#FF0000</color> <!-- Red (Light Mode) -->
+    <color name="colorPrimaryDark">#B20000</color> <!-- Dark Red (Dark Mode) -->
+    <color name="colorPrimaryVariant">#B20000</color> <!-- Dark Red (Dark Mode) -->
+    <color name="colorPrimaryLight">#FF6666</color> <!-- Light Red (Light Mode) -->
+    <color name="colorPrimaryLightDark">#FF9999</color> <!-- Light Red (Dark Mode) -->
+
+    <!-- Accent Colors -->
+    <color name="colorAccent1">#FFA07A</color> <!-- Light Coral (Light Mode) -->
+    <color name="colorAccent2">#800000</color> <!-- Maroon (Light Mode) -->
+
+
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GitHub Task</string>
+    <string name="default_web_client_id">247624789658-akh3228qnahuf4e1pmg2o4j1vjr61d70</string>
+    <string name="search_repositories">Search repositories...</string>
+    <string name="existing_user_sign_in">Existing User ? Sign in</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account">Don\'t have an account ?</string>
+    <string name="register_now">Register Now</string>
+    <string name="use_other_methods">Use other Methods</string>
+    <string name="register_noww">Register Now !</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="repository_name">Repository Name</string>
+    <string name="owner_name">Owner Name</string>
+</resources>
